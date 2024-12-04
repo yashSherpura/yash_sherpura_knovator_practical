@@ -3,7 +3,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:yash_practical/commons/widgets/components.dart';
 import 'package:yash_practical/commons/widgets/components/error_handling_widget.dart';
 import 'package:yash_practical/core/constants/constants.dart';
-import 'package:yash_practical/core/constants/spacings.dart';
 import 'package:yash_practical/core/navigation/app_navigator.dart';
 import 'package:yash_practical/presentation/post_detail/cubit/post_detail_cubit.dart';
 
